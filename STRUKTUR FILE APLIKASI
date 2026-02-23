@@ -1,0 +1,29 @@
+slipgaji_app/
+├── index.php
+├── login.php
+├── logout.php
+├── config.php
+├── PDFService.php           # Tanpa namespace
+├── generate_slip.php        # Tanpa use statement
+├── slip_view.php            # Tanpa use statement
+├── fonnte_api.php
+├── send_notif.php
+├── data_slip.php
+├── slip_preview.php
+├── install.php              # File instalasi baru
+├── ajax_get_karyawan.php    # File baru
+├── ajax_save_karyawan.php
+├── ajax_save_periode.php
+├── ajax_export.php
+├── ajax_check_status.php
+├── .htaccess
+├── uploads/
+│   ├── slip/
+│   └── ttd/
+└── assets/
+    ├── css/
+    │   └── style.css
+    ├── js/
+    │   └── script.js
+    └── images/
+        └── logo.jpg

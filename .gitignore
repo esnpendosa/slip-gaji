@@ -1,0 +1,31 @@
+# Dependencies
+vendor/
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Cache
+cache/
+tmp/
+temp/
+
+# Upload files (opsional - hapus jika ingin di-track)
+# uploads/
+
+# OS files
+Thumbs.db
+desktop.ini
